@@ -8,7 +8,7 @@ I am looking for a permanent job, but opened for suggestions.
 
 Contacts: 
 G-mail: romantupikovroman@gmail.com
-My telegram: https://t.me/rt503
+Telegram: https://t.me/rt503
 
 **My stack:**
 
