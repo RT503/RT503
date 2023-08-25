@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Roman Tupikov. I'm 29 years old front-end developer from Stavropol City, Russia.
+My name is Roman Tupikov. I'm 31 years old front-end developer from Stavropol City, Russia.
 
 Currently I study React. Ready to build some things on JS/HTML/CSS. 
 
